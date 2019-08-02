@@ -1,0 +1,4 @@
+define hostgroup{
+    hostgroup_name        linux-academy-servers
+    members                localhost,ketanvj2c.mylabserver.com
+    }
